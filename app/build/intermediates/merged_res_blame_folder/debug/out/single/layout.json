@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-mergeDebugResources-59:\\layout\\fragment_fruit_list.xml",
+        "source": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-main-62:\\layout\\fragment_fruit_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-mergeDebugResources-59:\\layout\\fragment_fruit_favorite.xml",
+        "source": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-main-62:\\layout\\fragment_fruit_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-mergeDebugResources-59:\\layout\\item_fruit.xml",
+        "source": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-main-62:\\layout\\item_fruit.xml"
+    },
+    {
+        "merged": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-mergeDebugResources-59:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-main-62:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-mergeDebugResources-59:\\layout\\fragment_logout.xml",
+        "source": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-main-62:\\layout\\fragment_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-mergeDebugResources-59:\\layout\\fragment_fruit_detail.xml",
+        "source": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-main-62:\\layout\\fragment_fruit_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-mergeDebugResources-59:\\layout\\item_player.xml",
+        "source": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-main-62:\\layout\\item_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-mergeDebugResources-59:\\layout\\fragment_player_favorite.xml",
+        "source": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-main-62:\\layout\\fragment_player_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-mergeDebugResources-59:\\layout\\fragment_player_detail.xml",
+        "source": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-main-62:\\layout\\fragment_player_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-mergeDebugResources-59:\\layout\\fragment_player_list.xml",
+        "source": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-main-62:\\layout\\fragment_player_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-mergeDebugResources-59:\\layout\\activity_add_player.xml",
+        "source": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-main-62:\\layout\\activity_add_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-mergeDebugResources-59:\\layout\\fragment_firebase_list.xml",
+        "source": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-main-62:\\layout\\fragment_firebase_list.xml"
+    },
+    {
+        "merged": "com.example.evaluacion_final.app-mergeDebugResources-59:/layout/activity_add_player.xml",
+        "source": "com.example.evaluacion_final.app-main-62:/layout/activity_add_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-mergeDebugResources-59:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-main-62:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-mergeDebugResources-59:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-main-62:\\layout\\activity_main.xml"
+    }
+]

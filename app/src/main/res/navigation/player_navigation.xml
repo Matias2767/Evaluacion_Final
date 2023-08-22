@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fruit_navigation"
+    app:startDestination="@id/playerListFragment">
+
+    <fragment
+        android:id="@+id/firebaseListFragment"
+        android:name="com.example.evaluacion_final.view.fragments.FirebaseListFragment"
+        android:label="fragment_firebase_list"
+        tools:layout="@layout/fragment_firebase_list" />
+    <fragment
+        android:id="@+id/logoutFragment"
+        android:name="com.example.evaluacion_final.view.fragments.LogoutFragment"
+        android:label="fragment_logout"
+        tools:layout="@layout/fragment_logout" />
+    <fragment
+        android:id="@+id/playerListFragment"
+        android:name="com.example.evaluacion_final.view.fragments.PlayerListFragment"
+        android:label="fragment_player_list"
+        tools:layout="@layout/fragment_player_list" >
+        <action
+            android:id="@+id/action_playerListFragment_to_playerDetailFragment"
+            app:destination="@id/playerDetailFragment"
+            app:popUpTo="@id/playerDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/playerFavoriteFragment"
+        android:name="com.example.evaluacion_final.view.fragments.PlayerFavoriteFragment"
+        android:label="fragment_player_favorite"
+        tools:layout="@layout/fragment_player_favorite" >
+        <action
+            android:id="@+id/action_playerFavoriteFragment_to_playerDetailFragment"
+            app:destination="@id/playerDetailFragment"
+            app:popUpTo="@id/playerFavoriteFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/playerDetailFragment"
+        android:name="com.example.evaluacion_final.view.fragments.PlayerDetailFragment"
+        android:label="fragment_player_detail"
+        tools:layout="@layout/fragment_player_detail" >
+        <argument
+            android:name="player"
+            app:argType="com.example.evaluacion_final.model.NbaPlayer" />
+    </fragment>
+</navigation>
