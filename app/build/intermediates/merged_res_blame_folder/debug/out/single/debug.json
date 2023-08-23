@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-merged_res-60:\\drawable_item_fruit_detail_background.xml.flat",
-        "source": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-main-62:\\drawable\\item_fruit_detail_background.xml"
-    },
-    {
         "merged": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-merged_res-60:\\layout_fragment_player_list.xml.flat",
         "source": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-main-62:\\layout\\fragment_player_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-merged_res-60:\\drawable_item_fruit_detail_background.xml.flat",
+        "source": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-main-62:\\drawable\\item_fruit_detail_background.xml"
     },
     {
         "merged": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-merged_res-60:\\drawable_frutas.xml.flat",
@@ -14,10 +14,6 @@
     {
         "merged": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-merged_res-60:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-main-62:\\mipmap-xxxhdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "com.example.evaluacion_final.app-merged_res-60:/layout_activity_add_player.xml.flat",
-        "source": "com.example.evaluacion_final.app-main-62:/layout/activity_add_player.xml"
     },
     {
         "merged": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-merged_res-60:\\drawable_ic_basquet.xml.flat",
@@ -136,6 +132,10 @@
         "source": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-main-62:\\drawable\\ic_launcher_background.xml"
     },
     {
+        "merged": "com.example.evaluacion_final.app-merged_res-60:/layout_item_player_firebase.xml.flat",
+        "source": "com.example.evaluacion_final.app-main-62:/layout/item_player_firebase.xml"
+    },
+    {
         "merged": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-merged_res-60:\\drawable_ic_cloud.xml.flat",
         "source": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-main-62:\\drawable\\ic_cloud.xml"
     },
@@ -178,6 +178,10 @@
     {
         "merged": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-merged_res-60:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-main-62:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-merged_res-60:\\layout_item_player_firebase.xml.flat",
+        "source": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-main-62:\\layout\\item_player_firebase.xml"
     },
     {
         "merged": "C:\\Users\\matia\\.gradle\\daemon\\8.0\\com.example.evaluacion_final.app-merged_res-60:\\mipmap-hdpi_ic_launcher_round.webp.flat",

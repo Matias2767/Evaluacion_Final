@@ -118,9 +118,12 @@ id til_player_team
 id txt_age
 id txt_games
 id txt_minutes
+id txt_minutos
 id txt_name
+id txt_pts
 id txt_puntos_totales
 id txt_team
+id txt_tiros
 id txt_tiros_campo
 layout activity_add_player
 layout activity_login
@@ -132,6 +135,7 @@ layout fragment_player_detail
 layout fragment_player_favorite
 layout fragment_player_list
 layout item_player
+layout item_player_firebase
 menu fruit_menu
 mipmap ic_launcher
 mipmap ic_launcher_round
